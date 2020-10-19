@@ -10,7 +10,7 @@ def index():
 
 @app.route('/home')
 def home():
-    return '<h1>Be kind to all poeople</h1>'
+    return '<h1>Be kind to all people</h1>'
 
 
 @app.route('/json')
